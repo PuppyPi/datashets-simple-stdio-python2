@@ -1,2 +1,2 @@
-# datashets-simple-stdio-python2
-SimpleDatashets Implementation for reading from stdin or writing to stdout (or any stream)   (in Python 2!)
+# datashets-stdio-invokee-python2
+Datashets Implementation for client code reading from stdin and/or writing to stdout (or any stream)  (in Python 2)
